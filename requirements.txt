@@ -1,0 +1,4 @@
+dvc # data version control
+scikit-learn
+pandas
+numpy
